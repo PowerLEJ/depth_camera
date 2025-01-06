@@ -1,6 +1,6 @@
 ## About  
 Ubuntu 22.04  
-Python 3.10.12
+Python 3.10.12  
 Intel RealSense D435 Depth Camera  
 
 ## Camera with Python  
